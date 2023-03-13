@@ -1,0 +1,4 @@
+name: FishingHook
+version: '${project.version}'
+main: me.sk8ingduck.fishinghook.FishingHook
+authors: [ sk8ingDuck ]
